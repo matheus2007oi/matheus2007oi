@@ -1,4 +1,5 @@
 - 👋 Olá meu nome é @matheus2007oi
+- :+1:
 - 👀 Eu estou interessado em aprender a programar novas linguagens.
 - 🌱 Eu estou aprendendo a programar recentemente a linguagem de JavaScript Scratch
 
