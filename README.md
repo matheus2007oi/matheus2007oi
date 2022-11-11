@@ -1,8 +1,6 @@
 - 👋 Olá meu nome é @matheus2007oi
-- 👀 Eu estou interessado em aprender a programar novas linguagens.c .
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 Eu estou interessado em aprender a programar novas linguagens.
+- 🌱 Eu estou aprendendo a programar recentemente a linguagem de JavaScript Scratch
 
 <!---
 matheus2007oi/matheus2007oi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
